@@ -1,4 +1,4 @@
-How to run the Teachers Record Management System (LSSEMS) Project
+How to run community hub database system/LSSEMS Project
 
 1. Download the zip file
 
