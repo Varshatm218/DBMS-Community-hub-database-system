@@ -1,5 +1,3 @@
-![Picture1](https://github.com/user-attachments/assets/be40435b-42cb-4acf-84e0-0b3318952e4f)
-
 How to run community hub database system/LSSEMS Project
 
 1. Download the zip file
@@ -20,4 +18,4 @@ Credential for admin panel :
 
 Username: admin
 Password: Test@123
-![Picture1](https://github.com/user-attachments/assets/be40435b-42cb-4acf-84e0-0b3318952e4f)
+
